@@ -8,6 +8,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "lodash-es": "^4.17.21",
+    "marked": "^5.0.2",
     "vue": "^3.3.2"
   },
   "devDependencies": {
